@@ -1,8 +1,15 @@
 # FRED-unemployment-analysis
 
-This project has two sections based on the same data sets. The first  section is where I analyzed the data using SQL, and the other using Power BI.
+This project has two sections based on the same data sets. The first  section is where I analyzed the data using Power BI, and the other using SQL.
 
-The SQL part has a for with a list of all the queries, and a folder that has screenshots of the results & takeaways.
+The Power BI section contains the following
+  * `Unemployment Dashboard` displays all the visuals for the project.
+  * `GIFs` has a walkthrough of each section.
+  * `Slide Notes` is a markdown explaining what each visual represents.
+
+The SQL section has the following contents:
+  * `Queries`, are all the queries done on the data set
+  * `Results`, has a folder for the results of each query as a PNG, along with a markdown file with analysis. 
 
 The Power BI part has and the dashboard and folder with GIFs of each of the sections of the dashboard.
 
