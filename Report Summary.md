@@ -1,4 +1,4 @@
-# Slides Notes
+# Report Summary
 
 ## Overview
 A Shape Map of the US, with each state colored by its unemployment rate for whatever single month is selected, darker/more intense color meaning a higher rate. A Date slicer above the map controls which month is displayed.
